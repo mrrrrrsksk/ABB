@@ -1242,13 +1242,13 @@ footer {
     background: radial-gradient(45.81% 111.02% at 57.47% 14.48%, #383C46 0, #24282F 100%);
 }
 
-footer .elaqeboz{
+footer .elaqeboz {
     color: #FFFFFFB8;
     font-size: 12px;
     font-weight: 400;
 }
 
-footer .elaqeag{
+footer .elaqeag {
     margin: 8px 0;
     color: #fff;
     font-size: .8em;
@@ -1256,33 +1256,33 @@ footer .elaqeag{
     font-weight: 500;
 }
 
-footer hr{
+footer hr {
     width: 100%;
 }
 
-footer .qutu{
+footer .qutu {
     background-color: #0A0B0D29;
     border-radius: 24px;
     justify-content: space-between;
 }
 
-.iconpadding{
+.iconpadding {
     padding: 10px 30px;
     background-color: #0A0B0D29;
     border-radius: 8px;
 }
 
-footer .qutu .flexcol{
+footer .qutu .flexcol {
     font-size: 1em;
     padding: 20px;
-    padding-right:10px;
+    padding-right: 10px;
     gap: 1rem;
     justify-content: space-between;
     align-items: flex-start;
     flex-shrink: 0;
 }
 
-footer .linksag{
+footer .linksag {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1293,12 +1293,12 @@ footer .linksag{
     font-weight: 600;
 }
 
-footer .container>.flexcol:nth-child(1)>:nth-child(2){
+footer .container>.flexcol:nth-child(1)>:nth-child(2) {
     margin: 32px 0;
     gap: 1.25rem;
 }
 
-footer .container>.flexcol:nth-child(1)>:nth-child(2)>.flexcol>.flexcol{
+footer .container>.flexcol:nth-child(1)>:nth-child(2)>.flexcol>.flexcol {
     gap: 1rem;
 }
 
