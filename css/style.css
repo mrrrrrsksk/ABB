@@ -994,7 +994,7 @@ input[type="number"]::-webkit-outer-spin-button {
 
 
 #main7 .container>.flexrow.flexrow:nth-child(2) img {
-    max-height: 400px;
+    max-height: 350px;
     height: 100%;
     object-fit: contain;
 }
